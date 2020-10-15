@@ -14,11 +14,10 @@
       <img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
     </a>
     <a href="https://api.whatsapp.com/send?phone5521980312077" target="_blank">
-      <img alt="whatsapp" src="https://img.shields.io/badge/-Whatsapp-blue?style=flat-square&logo=Whatsapp&logoColor=white"/>
+      <img alt="whatsapp" src="https://img.shields.io/badge/-Whatsapp-brightgreen?style=flat-square&logo=Whatsapp&logoColor=white"/>
     </a>
-    
-  
   </p>
-
-
 </samp>
+
+  Sou esse louco da imagem ao lado :smiley:
+  Estudante de Ciência da Computação, Casado com a *Marcelle*:heart:. Curiso (só que, nem tanto :weary:). Terminarei... (eu juro).:v:
