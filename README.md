@@ -20,5 +20,5 @@
 </samp>
 
   Sou esse louco da imagem ao lado :smiley:<br/>
-  Estudante de Ciência da Computação, Casado com a *Marcelle*:heart:.<br/>Curiso (só que, nem tanto :weary:), sobre Hacking. 
+  Estudante de Ciência da Computação, Casado com a *Marcelle*:heart:.<br/>Curioso (só que, nem tanto :weary:), sobre Hacking. 
   <br/>Terminarei... (eu juro).:v:
