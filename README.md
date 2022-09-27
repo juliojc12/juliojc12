@@ -19,6 +19,8 @@
   </p>
 </samp>
 
-  Sou esse louco da imagem ao lado :smiley:<br/>
-  Estudante de Ciência da Computação, Casado com a *Marcelle*:heart:.<br/>Curioso (só que, nem tanto :weary:), sobre Hacking. 
+  Sou esse louco da imagem ao lado :smiley:
+  <br/>Atualmente desenvolvo ferramentas de automação processual, com <b>C#</b> e <a href="https://www.selenium.dev/documentation/" target="_blank"><b>Seleniuim</b></a>.
+  <br/>Estudante de Ciência da Computação, Casado com a <b>*Marcelle*</b>:heart:.
+  <br/>Curioso (só que, nem tanto :weary:), sobre Hacking. 
   <br/>Terminarei... (eu juro).:v:
