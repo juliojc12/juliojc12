@@ -1,5 +1,5 @@
-# 💫 About Me:
-Desenvolvedor de RPAs no Gondim.<br>Formando em Ciência da Computação na Unisuam.<br>Estudante de javascript e seu ecossistema, python e C#.
+# 💫 Sobre mim:
+Sou formado em Ciência da Computação pela UNISUAM e atualmente trabalho com criação e manutenção de RPAs (Robotic Process Automation) utilizando C#. Além disso, possuo interesse em Python e atualmente estou me aprofundando em aprendizado de máquina. Também estou estudando desenvolvimento front-end com React e TailwindCSS. Em meus projetos, busco sempre aprimorar minhas habilidades e aprender novas tecnologias para entregar soluções eficientes e inovadoras.
 
 
 ## 🌐 Socials:
