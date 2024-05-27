@@ -18,4 +18,4 @@ Sou formado em Ciência da Computação pela UNISUAM e atualmente trabalho com c
 ---
 [![](https://visitcount.itsvg.in/api?id=juliojc12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
